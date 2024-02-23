@@ -1,0 +1,13 @@
+.emojiGameApp {
+  background-image: repeating-linear-gradient(#9796f0, #fbc7d4);
+  background-size: cover;
+  min-height: 100vh;
+}
+.Emoji-card-container-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 60px;
+  list-style-type: none;
+}
